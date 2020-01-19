@@ -1,0 +1,13 @@
+
+
+div {
+  font-family: sans-serif;
+}
+
+.dot:hover {
+    stroke: black;
+}
+
+.bar:hover {
+  stroke: black;
+}
